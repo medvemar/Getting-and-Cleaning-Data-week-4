@@ -1,6 +1,3 @@
-# Getting-and-Cleaning-Data-week-4
-Week 4 assignment
-
 Introduction
 ===========
 
@@ -76,3 +73,4 @@ Step-by-step instructions on each bullet point:
     write.table(xTidyLong, file = "TidyDataLong.txt", sep="\t", row.names = FALSE) ##Save data to the text file
     
     This part of code generates a long tidy data text file that meets the principles of tidy data described in Hadley Wickham's paper
+
